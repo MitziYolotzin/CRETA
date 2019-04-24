@@ -1,0 +1,19 @@
+{
+  "name": "creta",
+  "version": "1.0.0",
+  "description": "CRETA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitziYolotzin/CRETA.git"
+  },
+  "author": "Guacamolitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitziYolotzin/CRETA/issues"
+  },
+  "homepage": "https://github.com/MitziYolotzin/CRETA#readme"
+}
