@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MitziYolotzin/CRETA/issues"
   },
-  "homepage": "https://github.com/MitziYolotzin/CRETA#readme"
+  "homepage": "https://github.com/MitziYolotzin/CRETA#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
 }
