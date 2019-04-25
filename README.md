@@ -1,4 +1,8 @@
-Problematica
+##CRETA For Women
+
+![Logo CRETA for women](https://i.ibb.co/9pbVKjX/sinsombra.png)
+
+Problemática
 
 La inclusión financiera es el foco en el muchos países se encuentran trabajando. Cada uno de estos se encuentra con retos particulares.
 
@@ -28,10 +32,17 @@ Primero tenemos que hablar de uno de los más grandes casos de éxito a nivel mu
 
 En Africa 21% de los adultos, cuentan hoy en día con una “cuenta digital” en sus dispositivos. Esto lo logró la aplicación M-Pesa, la cuál M-Pesa la cual es una aplicación para transferir dinero que se utiliza principalmente para pago en comercios. El éxito fue tan grande que está tecnología llegó a países como Afganistán, India, Romania y recientemente Bangladesh. 
 
-Otro caso similar es el de Alipay
 
+¿Qué países han utilizado fintech para inclusión financiera?
 
-Nubank
+Primero tenemos que hablar de uno de los casos de los mayores casos de éxito a nivel mundial.
+
+En Africa 21% de los adultos, cuentan hoy en día con una “cuenta digital” en sus dispositivos. Esto lo logró la aplicación M-Pesa. Esta es una aplicación para transferir dinero que se utiliza principalmente para pago en comercios. El éxito fue tan grande que está tecnología llegó a países como Afganistán, India, Romania y recientemente Bangladesh.
+
+Otro caso similar es el de Alipay, esta es una plataforma de pagos en línea con oficinas centrales en Pudong, Shangai. Actualmente sobrepaso a PayPal, como la plataforma móvil de pagos más gande. En marzo de 2018 el número de usuarios alcanzó los 870, 000, 000 millones. Alipay opera con más de 65 instituciones financieras incluidas Visa y MasterCard. Para pagar servicios en línea y locales a más de 460, 000 negocios en China. Alipay es usado en smartsphones en donde se puede pagar a través de códigos QR y se esta expandiendo globalmente, actualmente opera en 18 países de Asia, Europa y América.
+
+Nubak es una startup de origen brasileña pionera en el segmento de servicios financiera que se desempeña como operadora de tarjetas de crédito y banco digital con operaciones en Brasil, Sao Paulo. Creo una tarjeta de crédito internacional mastercard administrada desde una aplicación y un programa de beneficios. la cuenta ya es usada por más de 2.5 millones de brasileños.
+
 
 Los gigantes tecnológicos se han trasladado a la esfera financiera, aprovechando el profundo conocimiento del cliente para proporcionar una amplia gama de servicios financieros. Los pagos realizados a través de sus plataformas tecnológicas están facilitando un mayor uso de las cuentas en las principales economías emergentes como China, donde el 57 por ciento de los propietarios de cuentas utilizan teléfonos móviles o internet para realizar compras o pagar facturas, aproximadamente el doble de la cuota en 2014.
 
@@ -66,5 +77,23 @@ Después de que Alejandra ha usado CRETA durante seis meses. Buscamos implementa
 Consulta el prototipo de la aplicación haciendo click [aquí](https://marvelapp.com/5g8iija/screen/56123421).
 
 Referencias:
+
+Klapper, L. Singer, D. Ansar, S. Hess, J. (2018). The Global Findex Database 2017. Measuring financial Inclusion and the Fintech Revolution. Washington: The World Bank.
+[How Mobile Phones are Driving Financial Inclusion | Marie Skara | TEDxESADE](https://www.youtube.com/watch?v=1O83CnrKfkk)
+[Accion](https://www.accion.org/how-we-work/)
+[Artículo, La razón "Ya tienen celular en México 80 millones y los de 65 millones son inteligentes"](https://www.razon.com.mx/mexico/ya-tienen-celular-en-mexico-80-millones-y-los-de-65-millones-son-inteligentes/)
+[Artículo, Expansión "En México el número de mexicanos con acceso a internet subió a 71.3 millones"](https://expansion.mx/tecnologia/2018/02/20/en-mexico-hay-713-millones-de-mexicanos-con-acceso-a-internet)
+[Reporte Nacional de Inclusión Financiera](https://www.cnbv.gob.mx/Inclusi%C3%B3n/Documents/Reportes%20de%20IF/Reporte%20de%20Inclusion%20Financiera%208.pdf)
+[Artículo Expansión "Fondeadora levanta 1.5 MDD de inversión para debutar como banco digital"](https://expansion.mx/emprendedores/2019/03/06/fondeadora-levanta-1-5-mdd-de-inversion-para-debutar-como-banco-digital)
+[Artículo, Nexos "La desigualdad de género en las finanzas personales"](https://economia.nexos.com.mx/?p=1832)
+[GSMA](https://www.gsma.com/)
+[Artículo,Stefanie Eschenbacher, Annatest Irreratest "RPT-Mexico pushes mobile payments to help unbanked consumers ditch cas"](https://www.reuters.com/article/mexico-fintech-unbanked/rpt-mexico-pushes-mobile-payments-to-help-unbanked-consumers-ditch-cash-idUSL1N20D0GZ)
+[Artículo, CONDUSEF "Un mundo sin efectivo, sólo tú y tu celular"](https://www.condusef.gob.mx/Revista/index.php/usuario-inteligente/servicios-financieros/330-un-mundo-sin-efectivo-solo-tu-y-tu-celular)
+[Artículo, Nathan Sykes "Seis tendencias tecnológicas en la industria financiera en 2018"](https://www.bbvaopenmind.com/economia/economia-global/seis-tendencias-tecnologicas-en-la-industria-financiera-en-2018/)
+[Nubank](https://nubank.com.br/)
+[https://www.youtube.com/watch?v=VYuToviSx5Q](https://www.youtube.com/watch?v=VYuToviSx5Q)
+[Artículo, CONDUSEF "¿Qué son las fintech?"](https://www.condusef.gob.mx/Revista/index.php/usuario-inteligente/educacion-financiera/763-que-son-las-fintech)
+
+
 
 
