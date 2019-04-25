@@ -24,9 +24,10 @@ body {
 .p-creta-logo{
    background-image: url(./assets/creta.png);
    text-align: center;
-   width: 100%;
-   height: 200px;
-   position: relative;
+   background-size: cover;
+   width: 100vw;
+   height: 130vw;
+   margin-bottom: -100px;
    object-fit: scale-down;
 
 }
@@ -52,18 +53,18 @@ body {
  }
 
  .creta-background {
-     background-image: url(./assets/creta_480.png);
-     width: 100%;
-     height: -webkit-fill-available;
-     background-size: cover;
-     background-position: center;
-     background-repeat: no-repeat;
+   background-image: url(./assets/creta_480.png);
+   width: 100vw;
+   height: 200vw;
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
  }
 
 .home-buttons{
    position: relative;
-   bottom: -200px;
-   margin-left: 45%;
+   bottom: -170px;
+   margin-left: 47%;
    width: 200px;
 }
 .sign-in{
