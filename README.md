@@ -101,20 +101,6 @@ Documentación del proceso de User Experience Designer
 
 Proceso Técnico
 
-
-
-Colaboradoras:
-
-- Génesis Enriquez: UX Research 
-- Andrea Cruz : UI Designer
-- Mitzi Olvera: Front End
-- Abygail Romero: Front End
-- Jazmin Dominguez: Front End
-
-Agradecimientos:
-
-Estamos agradecidas con nuestras compañeras: Olga Contreras, Ameyalli Brito, Erandi Cuervo, Cristal García y Brenda Vazquez por su apoyo en este proyecto, en definitva fue fundamental para lograr los alcances de la primera iteración.
-
 *Aspectos técnicos
 Este proyecto fue desarrollado con las siguientes herramientas:
 -JavaScript
@@ -148,4 +134,20 @@ Autenticación
 CRETA hace uzo de la autenticación vía telefónica.
 Una vez agregado el número celular con el que se abre la aplicación, se recibirá un código vía mensaje de texto
 que permitirá el acceso a la aplicación.
+
+
+
+
+Colaboradoras:
+
+- Génesis Enriquez: UX Research 
+- Andrea Cruz : UI Designer
+- Mitzi Olvera: Front End
+- Abygail Romero: Front End
+- Jazmin Dominguez: Front End
+
+Agradecimientos:
+
+Estamos agradecidas con nuestras compañeras: Olga Contreras, Ameyalli Brito, Erandi Cuervo, Cristal García y Brenda Vazquez por su apoyo en este proyecto, en definitva fue fundamental para lograr los alcances de la primera iteración.
+
 
