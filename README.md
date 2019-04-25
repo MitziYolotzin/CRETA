@@ -105,11 +105,11 @@ Proceso Técnico
 
 Colaboradoras:
 
-Génesis Enriquez: UX Research 
-Andrea Cruz : UI Designer
-Mitzi Olvera: Front End
-Abygail Romero: Front End
-Jazmin Dominguez: Front End
+- Génesis Enriquez: UX Research 
+- Andrea Cruz : UI Designer
+- Mitzi Olvera: Front End
+- Abygail Romero: Front End
+- Jazmin Dominguez: Front End
 
 Agradecimientos:
 
