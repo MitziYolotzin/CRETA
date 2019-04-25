@@ -1,3 +1,4 @@
+
 body{
    background-color:white;
 }
@@ -12,6 +13,190 @@ body{
    width:20px;
    height:auto;
    display:inline-block;
+
+html,
+body {
+
+   background-color: white;
+
+}
+
+.p-creta-logo{
+   background-image: url(./assets/creta.png);
+   text-align: center;
+   width: 100%;
+   height: 200px;
+   position: relative;
+   object-fit: scale-down;
+
+}
+
+
+.title1 {
+   margin: 0px;
+   font-size: 50px;
+   padding-top: 60px;
+   padding: 10px;
+   position: static;
+   color:  white;
+   text-align: center;
+   
+}
+.title2 {
+    margin: 0px;
+    font-size: 30px;
+    padding-bottom: 40px;
+    position: static;
+    color:  white;
+    text-align: center;
+ }
+
+ .creta-background {
+     background-image: url(./assets/creta_480.png);
+     width: 100%;
+     height: -webkit-fill-available;
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+ }
+
+.home-buttons{
+   position: relative;
+   bottom: -200px;
+   margin-left: 45%;
+   width: 200px;
+}
+.sign-in{
+   background-image: linear-gradient(to bottom, rgb(33, 211, 181), rgb(68, 139, 221));
+   color: white;
+   height: 3em;
+   width: 200px;
+   border-radius: 10px;
+   margin-bottom: 20px;
+   
+
+}
+.login {
+   background-color: transparent;
+   border-color: white;
+   height: 3em;
+   width: 200px;
+   margin-top: 1em;
+   border-radius: 10px;
+   text-align: center;
+  
+}
+
+   background-color: black;
+   /* color: white; */
+   /* height: 100%; */
+   font-family: 'Lato', sans-serif;
+   /*comentrio prueba*/
+}
+#coverphoto {
+   width: 80%;
+   opacity: 0.8;
+   border-radius: 1%;
+}
+.login {
+   width: 100%;
+   padding-left: 6%;
+   padding-right: 6%;
+   padding-top: 0%;
+   color: white;
+}
+input::placeholder {
+   color: gray;
+}
+.headerIndex {
+   padding-top: 0%;
+   padding-left: 0%;
+   color: #2E2E2E;
+   border: none;
+}
+.titleWall {
+   margin: 0px;
+   font-size: 30px;
+   padding: 35px;
+   position: static;
+   color: #7fff00;
+   font-family: 'ZCOOL QingKe HuangYou', cursive;
+   text-align: center;
+}
+h1 {
+   margin: 0px;
+   font-size: 50px;
+   padding: 15px;
+   position: static;
+   color:  #2ab4dc;
+   font-family: 'ZCOOL QingKe HuangYou', cursive;
+   text-align: center;
+}
+#blockBar {
+   background-color: #2ab4dc;
+   position: fixed;
+   display: block;
+   width: 100%;
+   padding: 2px 15px 10px 25px;
+   top: 0px;
+   z-index: 10;
+   padding-left: 3%;
+   padding-top: 2%;
+}
+.nav-item {
+   padding: 5px 0px 5px 0px;
+   font-size: 15px;
+}
+#areaPost {
+   width: 250px;
+   height: 100px;
+   color: white;
+   text-align: left;
+   background-color: black;
+   position: relative;
+   left: 26px;
+   padding: 5px;
+}
+.nav-link {
+   color: white;
+   font-size: 18px;
+}
+a.nav-item {
+   position: relative;
+   bottom: -8px;
+   color: white;
+}
+.comments {
+   height: auto;
+   justify-content: center;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row-reverse;
+   background-color: #2e2e2e;
+}
+.textarea {
+   height: 90px;
+   width: 89%;
+   border-radius: 10px;
+   padding-left: 3%;
+   resize: none;
+   margin-bottom: 14px;
+}
+.comment {
+   width: 290px;
+   height: 125px;
+   color: white;
+   text-align: left;
+   background-color: #2e2e2e;
+}
+h4 {
+   color: white;
+   font-family: 'ZCOOL QingKe HuangYou', cursive;
+   text-align: center;
+}
+.color-green {
+   color: #7fff00;
+
 }
 #notification {
    color: black;
@@ -52,6 +237,23 @@ padding-bottom: 15%;
    margin-left: 17%;
    background-color: mediumaquamarine;
    color: white;
+
+  
    border: 2em;
    font-size: 8vw;
 }
+
+       text-decoration: blink;
+       font-family: sans-serif;
+       padding: 10%;
+       font-size: 26px;
+       vertical-align: bottom;
+ }
+ .sin-hover:hover {
+   color: #9E9E9E;
+ }
+ .bienvenida-Afo{
+   font-size: 5vw;
+   color: #4AAF29;
+   width: 50%;}
+
