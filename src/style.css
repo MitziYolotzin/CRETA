@@ -1,0 +1,62 @@
+html,
+body {
+   background-color: white;
+
+}
+
+/*agregado creta*/
+.title1 {
+   margin: 0px;
+   font-size: 50px;
+   padding-top: 60px;
+   padding: 10px;
+   position: static;
+   color:  white;
+   text-align: center;
+}
+.title2 {
+    margin: 0px;
+    font-size: 30px;
+    padding-bottom: 40px;
+    position: static;
+    color:  white;
+    text-align: center;
+ }
+
+ .creta-background {
+     background-image: url(./assets/creta_480.png);
+     width: 100%;
+     height: -webkit-fill-available;
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+ }
+/*termina creta*/
+
+/*creta*/
+.home-buttons{
+   position: relative;
+   bottom: -180px;
+
+}
+.sign-in{
+   background-image: linear-gradient(to bottom, rgb(33, 211, 181), rgb(68, 139, 221));
+   color: white;
+   height: 3em;
+   width: 100%;
+   border-radius: 10px;
+   margin-bottom: 20px;
+
+}
+.login {
+   background-color: transparent;
+   border-color: white;
+   height: 3em;
+   width: 100%;
+   margin-top: 1em;
+   border-radius: 10px;
+   text-align: center;
+  
+}
+
+/*termina creta*/
