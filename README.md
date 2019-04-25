@@ -1,6 +1,5 @@
-##CRETA For Women
+CRETA For Women
 
-![Logo CRETA for women](https://i.ibb.co/9pbVKjX/sinsombra.png)
 
 Problemática
 
@@ -95,5 +94,8 @@ Klapper, L. Singer, D. Ansar, S. Hess, J. (2018). The Global Findex Database 201
 [Artículo, CONDUSEF "¿Qué son las fintech?"](https://www.condusef.gob.mx/Revista/index.php/usuario-inteligente/educacion-financiera/763-que-son-las-fintech)
 
 
+Documentación del proceso de User Experience Designer
 
+![Proceso de trabajo UXD 1](https://i.ibb.co/BnCh2tB/IMG-20190423-172837.jpg)
+[Proceso de trabajo UXD 2](https://i.ibb.co/GCmYwML/IMG-20190424-193017.jpg)
 
