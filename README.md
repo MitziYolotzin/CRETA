@@ -99,3 +99,21 @@ Documentación del proceso de User Experience Designer
 ![Proceso de trabajo UXD 1](https://i.ibb.co/BnCh2tB/IMG-20190423-172837.jpg)
 ![Proceso de trabajo UXD 2](https://i.ibb.co/GCmYwML/IMG-20190424-193017.jpg)
 
+Proceso Técnico
+
+
+
+Colaboradoras:
+
+Génesis Enriquez: UX Research 
+Andrea Cruz : UI Designer
+Mitzi Olvera: Front End
+Abygail Romero: Front End
+Jazmin Dominguez: Front End
+
+Agradecimientos:
+
+Estamos agradecidas con nuestras compañeras: Olga Contreras, Ameyalli Brito, Erandi Cuervo, Cristal García y Brenda Vazquez por su apoyo en este proyecto, en definitva fue fundamental para lograr los alcances de la primera iteración.
+
+
+
