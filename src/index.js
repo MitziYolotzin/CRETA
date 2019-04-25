@@ -126,10 +126,8 @@ window.controlador = {
   
     },
     iniciosesion: () => {
-      // termina registro de personas
+      // registro
       const buttonSignInRegister = document.getElementById("button-sign-in-reg");
-      const buttonSignInFacebook = document.getElementById("button-sign-in-facebook");
-      const buttonSignInGit = document.getElementById("button-sign-in-git");
       const signinGoogle = document.getElementById("button-sign-in-google");
       const signInRegister = document.getElementById("sign-in-reg");
       const passwordRegister = document.getElementById("password-reg");
@@ -160,97 +158,7 @@ window.controlador = {
             }
           });
       });
-  /*
-      buttonSignInFacebook.addEventListener("click", () => {
-        const provider = new firebase.auth.FacebookAuthProvider();
   
-        firebase.auth().signInWithRedirect(provider).then(function (result) {}).catch(function (error) {
-          var errorCode = error.code;
-          var errorMessage = error.message;
-          alert(errorCode);
-          alert(errorMessage);
-          var email = error.email;
-          alert(email);
-          var credential = error.credential;
-          alert(credential)
-        });
-      });
-  
-      
-  
-  
-      signinGoogle.addEventListener("click", () => {
-        var googleProvider = new firebase.auth.GoogleAuthProvider()
-  
-        firebase.auth().signInWithRedirect(googleProvider)
-          .catch(function (error) {
-            var errorCode = error.code;
-            var errorMessage = error.message;
-            alert(errorCode);
-            alert(errorMessage);
-            var email = error.email;
-            alert(email);
-            var credential = error.credential;
-            alert(credential)
-          });
-  
-      })*/
-      
-function getUiConfig() {
-  return {
-    'callbacks': {
-      'signInSuccess': function(user, credential, redirectUrl) {
-        handleSignedInUser(user);
-        return false;
-      }
-    },
-    'signInFlow': 'popup',
-    'signInOptions': [
-	
-          firebase.auth.GoogleAuthProvider.PROVIDER_ID,
-	{
-        provider: firebase.auth.PhoneAuthProvider.PROVIDER_ID,
-        recaptchaParameters: {
-          type: 'image', 
-          size: 'invisible',
-          badge: 'bottomleft' 
-        },
-	      defaultCountry: 'IN', 
-	      defaultNationalNumber: '1234567890',
-	      loginHint: '+11234567890'
-	}
-        ],
-    'tosUrl': 'https://www.google.com'
-  };
-}
-
-var ui = new firebaseui.auth.AuthUI(firebase.auth());
-
-var handleSignedInUser = function(user) {
-  document.getElementById('user-signed-in').style.display = 'block';
-  document.getElementById('user-signed-out').style.display = 'none';
-  document.getElementById('phone').textContent = user.phoneNumber;
-};
-
-var handleSignedOutUser = function() {
-  document.getElementById('user-signed-in').style.display = 'none';
-  document.getElementById('user-signed-out').style.display = 'block';
-  ui.start('#firebaseui-container', getUiConfig());
-};
-
-firebase.auth().onAuthStateChanged(function(user) {
-  document.getElementById('loading').style.display = 'none';
-  document.getElementById('loaded').style.display = 'block';
-  user ? handleSignedInUser(user) : handleSignedOutUser();
-});
-
-var initApp = function() {
-  document.getElementById('sign-out').addEventListener('click', function() {
-    firebase.auth().signOut();
-  });
-};
-
-window.addEventListener('load', initApp);
 
 
       //prueba para login con phone

@@ -1,4 +1,4 @@
-CRETA For Women
+## CRETA For Women
 
 
 Problemática
@@ -115,5 +115,37 @@ Agradecimientos:
 
 Estamos agradecidas con nuestras compañeras: Olga Contreras, Ameyalli Brito, Erandi Cuervo, Cristal García y Brenda Vazquez por su apoyo en este proyecto, en definitva fue fundamental para lograr los alcances de la primera iteración.
 
+*Aspectos técnicos
+Este proyecto fue desarrollado con las siguientes herramientas:
+-JavaScript
+-HTML 5
+-CSS3
+-Firebase
+-Firestore
+-Bootstrap
 
+
+Instalación
+1.- Forkear el repositorio.
+2.- Ejecutar git clone (link del fork).
+3.- Ejecutar npm install.
+4.- Levantamiento de servidor local.
+5.- Visualización en modo Mobile.
+6.- Ingreso de número telefónico para registro y verificación.
+7.- Navegación.
+
+
+
+Consideraciones técnicas.
+El proyecto requiere del levantantamiento de un servidor local, como son
+LiveServer: servidor de Visual Studio Code.
+Npm start : servidor local que se ejecuta a tiempo real en el proyecto.
+Web Server for Chrome: googleApp que permite el levantamiendo de servidor a una carpeta específica.
+
+
+
+Autenticación
+CRETA hace uzo de la autenticación vía telefónica.
+Una vez agregado el número celular con el que se abre la aplicación, se recibirá un código vía mensaje de texto
+que permitirá el acceso a la aplicación.
 
