@@ -49,6 +49,8 @@ Proto Persona / Mapa de empatía
 
 ![Proto Persona](https://i.ibb.co/kB51khV/proto-Persona.png)
 
+![Mapa de empatía](https://i.ibb.co/6bmjmDw/Talent-Land-Mapa-de-empati-a.jpg)
+
 ¿Cómo podríamos ayudar a Alejandra a tener acceso a un producto financiero que se adapte a su contexto?
 
 CRETA for women es una aplicación financiera que busca porporcionarle a Alejandra  su primer cuenta. Buscamos acercarla a las facilidades que conlleva utilizar una plataforma financiera como son, realizar pagos de servicios y transferencia a otras cuentas.
@@ -58,4 +60,11 @@ Estamos conscientes de que la ley fintech se encuentra en proceso de regulación
 Propuesta de valor
 
 Después de que Alejandra ha usado CRETA durante seis meses. Buscamos implementar en la aplicación inteligencia artificial mediante algoritmos que analicen esta data con la finalidad de detectar el  siguiente producto financiero para el que nuestra usuaria esta preparada. Una vez validad esta opción y nuevamente tomando en cuenta a nuestros aliados los bancos, en la aplicación le aparecerá una sección informándole que tiene un crédito preautorizado, antes de aceptar este crédito estamos ideando la manera de informarle las mejores prácticas para el manejo y administración de este nuevo producto. 
+
+![Flujo de la Aplicación](https://i.ibb.co/rZHF9HP/flujo-De-Aplicacio-n.png)
+
+Consulta el prototipo de la aplicación haciendo click [aquí](https://marvelapp.com/5g8iija/screen/56123421).
+
+Referencias:
+
 
