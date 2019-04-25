@@ -47,7 +47,7 @@ Está planificando un sistema de pagos digitales ejecutado y construido por el b
 
 Proto Persona / Mapa de empatía
 
-![Proto Persona](https://ibb.co/3d4zG05)
+![Proto Persona](https://i.ibb.co/kB51khV/proto-Persona.png)
 
 ¿Cómo podríamos ayudar a Alejandra a tener acceso a un producto financiero que se adapte a su contexto?
 
