@@ -1,5 +1,22 @@
+
+body{
+   background-color:white;
+}
+
+.nav-wrapper{
+ padding-top: 10%;
+ background-color: mediumaquamarine;
+ color: white; 
+ }
+
+ .divider{
+   width:20px;
+   height:auto;
+   display:inline-block;
+
 html,
 body {
+
    background-color: white;
 
 }
@@ -70,3 +87,174 @@ body {
    text-align: center;
   
 }
+
+   background-color: black;
+   /* color: white; */
+   /* height: 100%; */
+   font-family: 'Lato', sans-serif;
+   /*comentrio prueba*/
+}
+#coverphoto {
+   width: 80%;
+   opacity: 0.8;
+   border-radius: 1%;
+}
+.login {
+   width: 100%;
+   padding-left: 6%;
+   padding-right: 6%;
+   padding-top: 0%;
+   color: white;
+}
+input::placeholder {
+   color: gray;
+}
+.headerIndex {
+   padding-top: 0%;
+   padding-left: 0%;
+   color: #2E2E2E;
+   border: none;
+}
+.titleWall {
+   margin: 0px;
+   font-size: 30px;
+   padding: 35px;
+   position: static;
+   color: #7fff00;
+   font-family: 'ZCOOL QingKe HuangYou', cursive;
+   text-align: center;
+}
+h1 {
+   margin: 0px;
+   font-size: 50px;
+   padding: 15px;
+   position: static;
+   color:  #2ab4dc;
+   font-family: 'ZCOOL QingKe HuangYou', cursive;
+   text-align: center;
+}
+#blockBar {
+   background-color: #2ab4dc;
+   position: fixed;
+   display: block;
+   width: 100%;
+   padding: 2px 15px 10px 25px;
+   top: 0px;
+   z-index: 10;
+   padding-left: 3%;
+   padding-top: 2%;
+}
+.nav-item {
+   padding: 5px 0px 5px 0px;
+   font-size: 15px;
+}
+#areaPost {
+   width: 250px;
+   height: 100px;
+   color: white;
+   text-align: left;
+   background-color: black;
+   position: relative;
+   left: 26px;
+   padding: 5px;
+}
+.nav-link {
+   color: white;
+   font-size: 18px;
+}
+a.nav-item {
+   position: relative;
+   bottom: -8px;
+   color: white;
+}
+.comments {
+   height: auto;
+   justify-content: center;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row-reverse;
+   background-color: #2e2e2e;
+}
+.textarea {
+   height: 90px;
+   width: 89%;
+   border-radius: 10px;
+   padding-left: 3%;
+   resize: none;
+   margin-bottom: 14px;
+}
+.comment {
+   width: 290px;
+   height: 125px;
+   color: white;
+   text-align: left;
+   background-color: #2e2e2e;
+}
+h4 {
+   color: white;
+   font-family: 'ZCOOL QingKe HuangYou', cursive;
+   text-align: center;
+}
+.color-green {
+   color: #7fff00;
+
+}
+#notification {
+   color: black;
+   border:none;
+   background-color: white; 
+   margin-left: 20%;
+   font-size: 8vw;  
+}
+
+#chat{
+  color: black;
+  border: none; 
+  background-color: white;
+  margin-left: 2%;
+  font-size: 8vw;
+}
+
+#action-buttons{
+   padding-top: 60%;
+   margin-left: 14%;
+  
+}
+
+
+
+#separator{
+padding-bottom: 15%;
+
+}
+
+#bottom-buttons{
+   margin-left: 14%;
+}
+
+
+#credit{
+   margin-top: 40%;
+   margin-left: 17%;
+   background-color: mediumaquamarine;
+   color: white;
+
+  
+   border: 2em;
+   font-size: 8vw;
+}
+
+       text-decoration: blink;
+       font-family: sans-serif;
+       padding: 10%;
+       font-size: 26px;
+       vertical-align: bottom;
+ }
+ .sin-hover:hover {
+   color: #9E9E9E;
+ }
+ .bienvenida-Afo{
+   font-size: 5vw;
+   color: #4AAF29;
+   width: 50%;}
+
