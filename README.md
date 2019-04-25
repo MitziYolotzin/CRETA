@@ -97,5 +97,5 @@ Klapper, L. Singer, D. Ansar, S. Hess, J. (2018). The Global Findex Database 201
 Documentación del proceso de User Experience Designer
 
 ![Proceso de trabajo UXD 1](https://i.ibb.co/BnCh2tB/IMG-20190423-172837.jpg)
-[Proceso de trabajo UXD 2](https://i.ibb.co/GCmYwML/IMG-20190424-193017.jpg)
+![Proceso de trabajo UXD 2](https://i.ibb.co/GCmYwML/IMG-20190424-193017.jpg)
 
